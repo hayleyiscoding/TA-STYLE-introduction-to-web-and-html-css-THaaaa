@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    font-size: 25px;
+}
+p {
+    color: crimson;
+    font-size: 16px;
+}
+body {
+    background-color: beige;
+}
+#special {
+    color: #000000;
+}
+.dpink {
+    color: rgb(210, 20, 228);
+}
